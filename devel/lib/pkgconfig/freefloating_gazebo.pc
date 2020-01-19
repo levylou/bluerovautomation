@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/devel
+
+Name: freefloating_gazebo
+Description: Description of freefloating_gazebo
+Version: 1.1.0
+Cflags: -I/home/levy/Schreibtisch/bluerov_auto/devel/include -I/home/levy/Schreibtisch/bluerov_auto/src/freefloating_gazebo/include -I/usr/include/eigen3
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/devel/lib -lfreefloating_gazebo
+Requires: roscpp std_msgs std_srvs gazebo_msgs geometry_msgs sensor_msgs control_toolbox rostime nav_msgs message_runtime

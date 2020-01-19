@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/devel
+
+Name: waterlinked_ros_driver
+Description: Description of waterlinked_ros_driver
+Version: 0.0.1
+Cflags: -I/home/levy/Schreibtisch/bluerov_auto/devel/include
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/devel/lib 
+Requires: 

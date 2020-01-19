@@ -1,0 +1,2 @@
+bluerov_heincke:bluerov_ros_pkg/bluerov:bluerov_ros_pkg/bluerov_apps:bluerov_ros_playground:check_odometry:data_r_l:freefloating_gazebo:freefloating_gazebo_demo:robot_localization:waterlinked_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/levy/Schreibtisch/bluerov_auto/devel -DCMAKE_INSTALL_PREFIX=/home/levy/Schreibtisch/bluerov_auto/install -G Unix Makefiles

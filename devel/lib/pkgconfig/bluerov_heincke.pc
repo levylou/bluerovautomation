@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/devel
+
+Name: bluerov_heincke
+Description: Description of bluerov_heincke
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/devel/lib 
+Requires: 

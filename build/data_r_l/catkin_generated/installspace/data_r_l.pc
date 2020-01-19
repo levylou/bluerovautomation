@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/install
+
+Name: data_r_l
+Description: Description of data_r_l
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/install/lib 
+Requires: 

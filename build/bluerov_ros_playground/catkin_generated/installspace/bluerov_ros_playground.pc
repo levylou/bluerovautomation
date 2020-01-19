@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/install
+
+Name: bluerov_ros_playground
+Description: Description of bluerov_ros_playground
+Version: 0.0.0
+Cflags: -I/home/levy/Schreibtisch/bluerov_auto/install/include
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/install/lib 
+Requires: 

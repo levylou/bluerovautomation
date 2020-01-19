@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/install
+
+Name: freefloating_gazebo_demo
+Description: Description of freefloating_gazebo_demo
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/install/lib -lfreefloating_gazebo_demo
+Requires: roscpp sensor_msgs nav_msgs

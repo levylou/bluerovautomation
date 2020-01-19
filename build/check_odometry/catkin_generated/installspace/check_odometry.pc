@@ -1,0 +1,8 @@
+prefix=/home/levy/Schreibtisch/bluerov_auto/install
+
+Name: check_odometry
+Description: Description of check_odometry
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/levy/Schreibtisch/bluerov_auto/install/lib 
+Requires: 
