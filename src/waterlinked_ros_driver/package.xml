@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>waterlinked_ros_driver</name>
+  <version>0.0.1</version>
+  <description>ROS Driver for the Waterlinked Underwater GPS</description>
+
+  <maintainer email="mchandrasekaran@slb.com">Muthu Chandrasekaran</maintainer>
+  <maintainer email="jwang92@stevens.com">Jinkun Wang</maintainer>
+  
+  <author email="mchandrasekaran@slb.com">Muthu Chandrasekaran</author>
+  <author email="jwang92@stevens.com">Jinkun Wang</author>
+  
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>dynamic_reconfigure</depend>
+  <depend>message_generation</depend>
+</package>
