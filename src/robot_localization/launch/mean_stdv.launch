@@ -1,0 +1,3 @@
+<launch>
+	<node pkg= "robot_localization" type="mean_stdv.py" name="accuracy_check" output="screen" />
+</launch>
